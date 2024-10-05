@@ -101,6 +101,21 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
+st.write("🚧", "[**DronaPay | Business Analyst**]")
+st.write("- "+"**11/2023 - Present**")
+# st.markdown("span style='line-height: 0.8; font-size: 14px;'>🚧 [**DronaPay | Business Analyst**)
+st.write("*Key Responsibilities :*")
+st.write(
+    """
+- ► Collaborating with clients to gather and analyze requirements, translating them into pseudocode, algorithms, and detailed test conditions for effective fraud detection solutions.
+- ► Defining and executing comprehensive test cases covering a range of criteria to ensure high-quality delivery of fraud detection systems. Validating user interface (UI) designs to ensure adherence to banking industry norms and client-specific requirements.
+- ► Ensuring thorough testing of edge cases to identify potential vulnerabilities in fraud detection algorithms.
+- ► Developing and implemented strategies for continuous improvement in fraud detection methodologies, enhancing overall system security.
+- ► Facilitating communication between technical teams and clients, ensuring that fraud detection solutions met both technical and business objectives.
+"""
+)
+
+# --- JOB 2
 st.write("🚧", "[**BugendaiTech | Data Science Intern**](https://drive.google.com/file/d/1ipqWo5KgW-0QMkcY06alpGzgXi2b5jmU/view?usp=sharing)")
 st.write("- "+"**06/2023 - 09/2023**")
 # st.markdown("span style='line-height: 0.8; font-size: 14px;'>🚧 [**BugendaiTech | Data Science Intern**](https://drive.google.com/file/d/1RdlEus2yYHSQduBE3rPmU-MK_cZA0WYW/view?usp=sharing)</span>", unsafe_allow_html=True)
@@ -114,7 +129,7 @@ st.write(
 """
 )
 
-# --- JOB 2
+# --- JOB 3
 st.write('\n')
 st.write("🚧", "[**Bharat Intern | Data Science Intern**](https://drive.google.com/file/d/1DqJPLfulcmYrqUNwCmCjTxUF3yjo0hZb/view?usp=sharing)")
 st.write("- "+"**07/2023 - 08/2023**")
@@ -130,7 +145,7 @@ st.write(
 """
 )
 
-# --- JOB 3
+# --- JOB 4
 st.write('\n')
 st.write("🚧", "[**LetsGrowMore | Data Science Intern**](https://drive.google.com/file/d/1dmd8yvsoq3g-oeICMO58vMzVh3H5UnhA/view?usp=sharing)")
 st.write("- "+" **06/2023 - 07/2023**")
