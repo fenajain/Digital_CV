@@ -101,7 +101,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "[**DronaPay | Business Analyst**]")
+st.write("🚧", "**DronaPay | Business Analyst**")
 st.write("- "+"**11/2023 - Present**")
 # st.markdown("span style='line-height: 0.8; font-size: 14px;'>🚧 [**DronaPay | Business Analyst**)
 st.write("*Key Responsibilities :*")
